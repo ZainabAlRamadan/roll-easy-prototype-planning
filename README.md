@@ -5,16 +5,16 @@ A comprehensive software engineering planning and high-fidelity prototype design
 ## 📊 Project Scope & Achievements
 * **62 Interactive Screens:** Successfully designed and delivered a complete high-fidelity system prototype mapping 100% of user workflows and system requirements.
 * **Agile/Scrum Lifecycle:** Formulated resource allocation, risk mitigation guidelines, and sprint tracking models across a simulated 20-week lifecycle.
-* **Software Quality Control:** Established an end-to-end Quality Control framework using the **PDCA model** to outline strict functional and security testing strategies.
+* **Software Quality Control:** Established an end-to-end Quality Control framework using the **PDCA model** to outline strict functional and security testing strategies[cite: 1].
 
 ---
 
 ## 🚀 Prototype Showcase (Key Interfaces)
-*Below are some of the core screens designed for the platform. The complete 62-screen design document is linked below.*
+*Below are core screens designed for the platform. The complete 62-screen design document is linked below.*
 
 <p align="center">
-  <img src="home_screen.png" width="250" title="Home Screen" /> \quad
-  <img src="map_screen.png" width="250" title="Interactive Map" /> \quad
+  <img src="home_screen.png" width="280" title="Home Screen" /> \quad \quad \quad \quad
+  <img src="otp_screen.png" width="280" title="Secure OTP Verification" />
 </p>
 
 ---
@@ -25,6 +25,6 @@ A comprehensive software engineering planning and high-fidelity prototype design
 ---
 
 ## 🛠️ Skills & Frameworks Demonstrated
-* **UI/UX Design:** High-Fidelity Prototyping, Wireframing, User Flow Mapping, and Information Architecture.
-* **Software Engineering:** Requirement Analysis, Risk Management, Agile/Scrum Frameworks, and Quality Assurance (PDCA Model).
-* **Project Management Tools:** Microsoft Planner, Agile Sprint Scheduling.
+* **UI/UX Design:** High-Fidelity Prototyping, Wireframing, User Flow Mapping, and Information Architecture[cite: 1].
+* **Software Engineering:** Requirement Analysis, Risk Management, Agile/Scrum Frameworks, and Quality Assurance (PDCA Model)[cite: 1].
+* **Project Management Tools:** Microsoft Planner, Agile Sprint Scheduling[cite: 1].
