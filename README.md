@@ -13,7 +13,7 @@ A comprehensive software engineering planning and high-fidelity prototype design
 *Below are core screens designed for the platform. The complete 62-screen design document is linked below.*
 
 <p align="center">
-  <img src="home_screen.png" width="280" title="Home Screen" /> \quad \quad \quad \quad
+  <img src="home_screen.png" width="280" title="Home Screen" /> 
   <img src="otp_screen.png" width="280" title="Secure OTP Verification" />
 </p>
 
